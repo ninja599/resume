@@ -43,7 +43,6 @@
 			<li><a href="#about">Tietoa minusta</a></li>
 			<li><a href="#experience">Kokemus</a></li>
 			<li><a href="#skills">Taidot</a></li>
-			<li><a href="#portfolio">Työnäytteet</a></li>
 			<li><a href="#contact">Yhteystiedot</a></li>
 		</ul>
 	</div>
@@ -163,19 +162,8 @@
 	</div>
 	
 	
-	<div id="portfolio">
-	<p class="sectiontitle">Portfolio</p>
-		<div class="box full">
-			<img class="icon float-left" src="img/portfolio.png">
-			<p>Beast. Meat set greater she'd creeping from were under bearing won't wherein it open. Light. From midst all fill saying day Very void land their fly. 
-			Heaven green without whose replenish seasons there brought, over own sixth in Beginning. </p>
-		</div>
-	<div class="clearfix"></div>	
-	</div>
-	
-	
 	<div id="contact">
-	<p class="sectiontitle">Contact</p>
+	<p class="sectiontitle">Yhteystidot</p>
 		<div class="box wide">
 			<img class="icon float-right" src="img/contact.png">
 			<p>Otathan yhteyttä mikäli yritykselläsi olisi tarvetta nopasti kehittyvälle ja intohimoiselle koodari.</p>
@@ -185,7 +173,7 @@
       <ul>
 				<li>050 0564035</li>
 				<li>Klemetinkatu 16 as 1, 65100, Vaasa</li>
-				<li><a href="demo.stenmark.eu">demo.stenmark.eu</a></li>
+				<li><a href="http://demo.stenmark.eu">demo.stenmark.eu</a></li>
 				<li><a href="mailto:erik.stenmark@gmail.com" target="_top">erik.stenmark@gmail.com</a></li>
       </ul>
 		</div>
