@@ -53,26 +53,25 @@
 		<p class="sectiontitle">Tietoa minusta</p>
 		<div class="box wide">
 			<img class="icon float-right" src="img/about.png">
-			<p>Olen Vaasassa asuva majoitusalan aluepäällikkö jonka intohimo on jo 
-      lukuisten vuosien ajan ollut ohjelmointi ja tämän alan opiskelu. </p>
+			<p>Olen Vaasassa asuva majoitusalan aluepäällikkö, jonka intohimo on jo 
+      vuosien ajan ollut ohjelmointi sekä alan opiskelu. </p>
       
       <p>Tilanteeni tällä hetkellä on se, että olen täysin itse oppinut 
       ohjelmoinnin harrastelija vailla työkokemusta. Vapaa-aikani olen käyttänyt 
-      vuoden 2017 alusta lähtien aktiiviseen itsetoimiseen opiskeluun eri digitaalisten 
-      portaaleiden avulla esim. Team treehouse, Codeacademy, Stack owerflow ja Youtube. 
-      Koen että olen päässyt oppimisessani siihen pisteeseen, että olisin vailla 
-      tehokkaampaa syventämistä osaamiselleni jota tarjoaisi parhaiten työn 
-      kautta ansaittu käytännön kokemus. </p>
+      vuoden 2017 alusta lähtien aktiiviseen itsetoimiseen opiskeluun eri digitaalisia 
+      protaaleja hyödyntäen esim. Team treehouse, Codeacademy, Stack owerflow ja Youtube. 
+      Koen päässeeni harrastuksessani siihen pisteeseen, että taitojeni syventämisen tehokkain tapa
+      olisi työssä oppiminen.</p>
 		</div>
 		
 		<div class="box narrow">
 			<ul>
 				<li>Erik Stenmark</li>
 				<li>Est. 8.5.1985</li>
-        <li>Kielitatio:
+        <li>Kielitaito:
           <p>Ruotsi: Äidinkieli<p>
-          <p>Suomi: Hyvä<p>
-          <p>Englanti: Hyvä<p>
+          <p>Suomi: Erinomainen<p>
+          <p>Englanti: Erinomainen<p>
         </li>
 			</ul>
 		</div>
@@ -83,15 +82,15 @@
 	<div id="experience">
 	<p class="sectiontitle">Kokemus</p>
 		<div class="box half">
-			<p>Ohjelmoinnin kokemusta minulla ei toistaiseksi ole työn puolesta. 
-         Tämän sijan olen vapaa-ajallani rakennellut harjoittelumielessä sovelluksia 
-         eri ohjelmointikieliä hyödyntämällä. Koen että vahvinta osaamiseni on 
+			<p>Toistaiseksi minulla ei ole ammatin kautta hankittua ohjelmoinnin kokemusta. 
+         Sen sijan olen vapaa-ajallani rakennellut harjoittelumielessä sovelluksia 
+         lukuisia ohjelmointikieliä hyödyntämällä. Koen vahvimman osaamiseni olevan 
          Web-ohjelmoinnin puolella, mutta olen toki osittain perehtynyt myös työpöytä 
-         sovellusten kehittämiseen Java kielellä. Viimeisimpiä projektejani ovat mm. 
-         Varauskalenteri suvun vapaa-ajan asunnolle PHP/JavaScript keiltä ja MySQL 
-         tietokantaa käyttämällä. Lisäksi rakennan kauppalista sovellusta muuten samoilla 
-         kielillä mutta tietokannaksi olen tähän sovellukseen valinnut SQLite3. Näihin 
-         projekteihin pääsee osittain perehtymään GitHub profiilillani.</p>
+         sovellusten kehittämiseen Java kielellä. Viimeisimpiä projektejani ovat
+         Varauskalenteri vapaa-ajan asunnolle PHP/JavaScript-kieltä ja MySQL 
+         tietokantaa käyttämällä. Lisäksi rakennan lista sovellusta samoilla 
+         kielillä. Tietokannaksi olen tähän sovellukseen valinnut SQLite3.
+         Projekteihin pääsee osittain perehtymään GitHub profiilillani.</p>
 			<img class="icon float-right" src="img/exp.png">
 		</div>
 		
@@ -103,7 +102,7 @@
         <li>Gigantti Oy, Vaasa <p>14.8.2012 – 1.5.2015</p><p>Sijaisosastopäällikkö</p></li>
       </ul>
       <br><br>
-      <p>Täysi CV ladattavana <a href="files/cv.pdf">tästä</a></p>
+      <p>CV ladattavana <a href="files/cv.pdf">tästä</a></p>
 		</div>
 	<div class="clearfix"></div>
 	</div>
@@ -113,14 +112,13 @@
 		<p class="sectiontitle">Taidot</p>
 		<div class="box narrow">
 			<img class="icon float-right" src="img/skills.png">
-      <p>HTML ja CSS kieltä olen käyttänyt jo hyvin nuoresta pitäen 
-      ja viime vuosina olen perehtynyt hyvinkin paljon PHP sekä 
-      JavaScript kieliin. Tietokannat kuten MySQL ja SQLite3 ovat 
-      myös hyvinkin tuttuja minulle ja hyödynnän näitä tekniikoita 
-      jatkuvasti eri projekteissa.</p>
+      <p>Olen nuoresta pitäen käyttänyt HTML:ää ja CSS:ää. 
+      Viime vuosina olen perehtynyt hyvinkin syvällisesti PHP- sekä 
+      JavaScript-kieliin. Tietokannat kuten MySQL ja SQLite3 ovat 
+      myös tuttuja ja hyödynnän näitä jatkuvasti projekteissani.</p>
       <p>Kielet: HTML, CSS, JavaScript, PHP, Python, Java</p>
       <p>Tietokannat: MySQL, SQLite3</p>
-      <p>Ohjelmisto: Linux, Git, Photoshop, Notepad++, Visual Studio, IntelliJ IDEA, SSH sovellukset, Apache2, Xampp, Mamp
+      <p>Ohjelmisto: Linux, Git, Photoshop, Notepad++, Visual Studio, IntelliJ IDEA, SSH, Apache2, Xampp, Mamp
     </div>
 		
 		<div class="box wide">
@@ -151,22 +149,21 @@
           <div class="progressvalue ajax" value="40"></div>
         </div>
       </div>
-      <p>Ohjelmointikielten oppimiseni suhteen olen tehnyt sen linjauksen, 
-      että uutta kieltä oppiessani panostan aluksi kielen perusymmärrykseen 
-      ja järkevien suunnittelu mallien omaksumiseen sivuttamalla usein lukuisat 
-      saatavilla olevat sovelluskehykset kyseiselle kielelle. PHP:n Composer 
-      ja Node.js:n NPM sovellukset ovat kuitenkin tuttuja käsitteitä minulle. 
-      Tämän lisäksi olen perehtynyt jQuery ja React kehyksiin alustavasti.</p>
+      <p>Uutta kieltä oppiessani panostan aluksi kielen perusymmärrykseen 
+      ja järkevien suunnittelumallien omaksumiseen sivuttamalla usein lukuisat 
+      saatavilla olevat sovelluskehykset (frameworks) kyseiselle kielelle. PHP:n Composer 
+      ja Node.js:n NPM sovellukset ovat kuitenkin tuttuja käsitteitä. 
+      Lisäksi olen alustavasti perehtynyt jQuery ja React kehyksiin.</p>
 		</div>
 	<div class="clearfix"></div>
 	</div>
 	
 	
 	<div id="contact">
-	<p class="sectiontitle">Yhteystidot</p>
+	<p class="sectiontitle">Yhteystiedot</p>
 		<div class="box wide">
 			<img class="icon float-right" src="img/contact.png">
-			<p>Otathan yhteyttä mikäli yritykselläsi olisi tarvetta nopasti kehittyvälle ja intohimoiselle koodari.</p>
+			<p>Mikäli yritykselläsi olisi tarvetta nopasti kehittyvälle ja intohimoiselle koodari, niin otathan ihmeessä yhteyttä.</p>
 		</div>
 		
 		<div class="box narrow">
