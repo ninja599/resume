@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => { setTimeout(() => { document.querySelector('body').className = 'loaded';}, 10)}, false);
+document.addEventListener('DOMContentLoaded', () => { setTimeout(() => { document.querySelector('body').className = 'loaded';}, 1500)}, false);
 
 let width = 10;
 
