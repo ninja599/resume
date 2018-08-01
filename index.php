@@ -3,9 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<title>CV - Erik Stenmark</title>
-	<meta name="description" content="The HTML5 Herald">
+	<meta name="description" content="My resume">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 	<meta name="author" content="SitePoint">
-	<link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,300,300italic,700,500,500italic,700italic,400italic%7CLato:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='href="https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -182,7 +183,7 @@
 </main>
 
 <footer class="footer">
-<p>&copy;<?php echo date('Y')?> Erik Stenmark</p>
+<p>&copy;<?php echo date('Y')?> Stenmark.eu</p>
 </footer>
 
 </div> <!-- end of wrapper -->
