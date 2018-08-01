@@ -67,7 +67,7 @@
 		<div class="box narrow">
 			<ul>
 				<li>Erik Stenmark</li>
-				<li>Est. 8.5.1985</li>
+				<li>8.5.1985</li>
         <li>Kielitaito:
           <p>Ruotsi: Äidinkieli<p>
           <p>Suomi: Erinomainen<p>
