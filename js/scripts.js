@@ -21,7 +21,6 @@ const prog = {
 
 
 function scrollact(){
-	console.log(window.pageYOffset);
 	if(window.pageYOffset > skillspos - 100) {
 	for(var propt in prog){
 		let width = prog[propt];
