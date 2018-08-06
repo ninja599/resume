@@ -10,7 +10,6 @@ include 'inc/log.php';
 	<meta name="description" content="My resume">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 	<meta name="author" content="SitePoint">
-	<link href='href="https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
