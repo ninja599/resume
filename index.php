@@ -36,6 +36,7 @@ include 'inc/log.php';
           <li><a target="_blank" href="https://www.linkedin.com/in/erikstenmark/"><img src="img/in.png"></a></li>
           <li><a target="_blank" href="https://www.facebook.com/erik.stenmark.98"><img src="img/fb.png"></a></li>
           <li><a target="_blank" href="https://github.com/ninja599"><img src="img/gh.png"></a></li>
+          <li><a target="_blank" href="https://teamtreehouse.com/erikstenmark"><img src="img/th.png"></a></li>
         </ul>
       </div>
     </header> <!-- /. header/cover -->
